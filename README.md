@@ -39,5 +39,5 @@ Using a .js file, the program fetches a random image from a URL and slices it pr
 
 
 
-# Gameplay Video Link
+# Gameplay Video Download Link
 [github.com/Luiz-Display/ScriptBlock/blob/main/preview/scriptblock-desktop-gameplay.mp4](./preview/scriptblock-desktop-gameplay.mp4)
