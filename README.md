@@ -14,5 +14,5 @@ The rule is simple: when faced with 9 shuffled blocks of a random image, your go
 Using a .js file, the program fetches a random image from a URL and slices it proportionally based on the defined size, effectively generating virtually "infinite" images to test this feature.
 
 
-![Demo](./assets/preview/scriptblock-playing.gif)
+![Demo](./preview/scriptblock-playing.gif)
 
