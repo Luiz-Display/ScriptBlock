@@ -13,9 +13,31 @@ The rule is simple: when faced with 9 shuffled blocks of a random image, your go
 
 Using a .js file, the program fetches a random image from a URL and slices it proportionally based on the defined size, effectively generating virtually "infinite" images to test this feature.
 
-| <div align="center">Preview</div> |
+
+# Previews
+
+| <div align="center">Desktop</div> |
 |:--:|
 | <img src="./preview/preview-desktop-url.png" alt="Preview Desktop" width="800"/> |
 
+| <div align="center">Samsung Galaxy S20 Ultra</div> |
+|:--:|
+| <img src="./preview/preview-samsung-galaxy-s20-ultra.png" alt="Preview Desktop" width="400"/> |
 
-[github.com/Luiz-Display/ScriptBlock/blob/main/preview/scriptblock-desktop-gameplay.mp4](https://github.com/Luiz-Display/ScriptBlock/blob/main/preview/scriptblock-desktop-gameplay.mp4)
+| <div align="center">Iphone 14 Pro Max</div> |
+|:--:|
+| <img src="./preview/preview-iphone-14-pro-max.png" alt="Preview Desktop" width="400"/> |
+
+| <div align="center">Ipad Pro</div> |
+|:--:|
+| <img src="./preview/preview-ipad-pro.png" alt="Preview Desktop" width="500"/> |
+
+
+# Interface
+
+![gif](./preview/scriptblock-playing.gif)
+
+
+
+# Gameplay Video Link
+[github.com/Luiz-Display/ScriptBlock/blob/main/preview/scriptblock-desktop-gameplay.mp4](./preview/scriptblock-desktop-gameplay.mp4)
