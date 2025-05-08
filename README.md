@@ -21,3 +21,4 @@ Using a .js file, the program fetches a random image from a URL and slices it pr
 <img src="./preview/scriptblock-playing.gif" alt="Demo" width="200"/>
 
 
+[github.com/Luiz-Display/ScriptBlock/blob/main/preview/scriptblock-desktop-gameplay.mp4](https://github.com/Luiz-Display/ScriptBlock/blob/main/preview/scriptblock-desktop-gameplay.mp4)
