@@ -18,6 +18,6 @@ Using a .js file, the program fetches a random image from a URL and slices it pr
 | <img src="./preview/preview-desktop-url.png" alt="Preview Desktop" width="800"/> |
 
 
-<img src="./preview/scriptblock-playing.gif" alt="Demo" width="500" style="border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+<img src="./preview/scriptblock-playing.gif" alt="Demo" width="500"  style="border: 2px solid #b8860b; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 
 
