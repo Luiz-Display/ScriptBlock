@@ -21,8 +21,7 @@ body {
   min-height: 100vh;
   gap: 50px;
   background: #2f2f2f;
-  cursor: url('./assets/ui/cursor1.png'), auto;
-
+  cursor: url("./assets/ui/cursor1.png"), auto;
 }
 
 .pegar {
@@ -83,20 +82,18 @@ body {
 .resetbutton:hover {
   background: transparent;
   border: 2px solid rgb(253, 236, 6);
-  cursor: url('./assets/ui/cursor2.png'), pointer;
-
+  cursor: url("./assets/ui/cursor2.png"), pointer;
 }
 
 .pegar,
 .board {
-  cursor: url('./assets/ui/cursor3.png'), grab;
+  cursor: url("./assets/ui/cursor3.png"), grab;
 }
 
 .pegar:active,
 .board:active {
-  cursor: url('./assets/ui/cursor4.png'), grabbing;
+  cursor: url("./assets/ui/cursor4.png"), grabbing;
 }
-
 
 #background {
   position: fixed;
@@ -142,7 +139,7 @@ body {
 
   .pegar,
   .board {
-    width: 270px; 
+    width: 270px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 5px;
@@ -152,7 +149,7 @@ body {
 
   .pegar .puxarbloco,
   .puxarbloco {
-    width: 80px; 
+    width: 80px;
     height: 80px;
   }
 
