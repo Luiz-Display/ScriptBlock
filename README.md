@@ -1,4 +1,4 @@
-<img src="./assets/ui/scriptblocklogo.png" alt="logo" width="300"/>
+<img src="./assets/ui/scriptblocklogo.png" alt="logo" width="500"/>
 
 # Monte blocos o quanto quiser!
 
