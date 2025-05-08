@@ -12,3 +12,7 @@ Por meio de um arquivo .js, o programa busca uma imagem aleatória de uma URL e 
 The rule is simple: when faced with 9 shuffled blocks of a random image, your goal is to reconstruct it while testing your assembly skills.
 
 Using a .js file, the program fetches a random image from a URL and slices it proportionally based on the defined size, effectively generating virtually "infinite" images to test this feature.
+
+
+![Demo](./assets/ui/scriptblock-playing.gif)
+
